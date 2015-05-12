@@ -10,5 +10,4 @@ def wordcount(str)
   	y
 	end
 end
-
 puts wordcount(strg)
